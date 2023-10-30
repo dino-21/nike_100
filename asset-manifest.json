@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nike_100/static/css/main.b3d7e03e.css",
+    "main.js": "/nike_100/static/js/main.cf2d65a4.js",
+    "static/js/787.61a433ad.chunk.js": "/nike_100/static/js/787.61a433ad.chunk.js",
+    "static/media/bg.jpg": "/nike_100/static/media/bg.ad7977f79c7989b6b5f8.jpg",
+    "index.html": "/nike_100/index.html",
+    "main.b3d7e03e.css.map": "/nike_100/static/css/main.b3d7e03e.css.map",
+    "main.cf2d65a4.js.map": "/nike_100/static/js/main.cf2d65a4.js.map",
+    "787.61a433ad.chunk.js.map": "/nike_100/static/js/787.61a433ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d7e03e.css",
+    "static/js/main.cf2d65a4.js"
+  ]
+}
